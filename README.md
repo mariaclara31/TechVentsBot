@@ -1,7 +1,7 @@
 # TechVentsBot
 API Rest com integração chatbot para divulgação de eventos de tecnologia.
 
-API Rest with chatbot integration for tech events disclosure.
+API Rest with chatbot integration for technology events disclosure.
 
 Para testes:
 
